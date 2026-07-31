@@ -5,8 +5,8 @@
 %global crate actix-threadpool
 
 Name:           rust-%{crate}
-Version:        0.3.1
-Release:        2%{?dist}
+Version:        0.3.3
+Release:        1%{?dist}
 Summary:        Actix thread pool for sync code
 
 # Upstream license specification: MIT/Apache-2.0
